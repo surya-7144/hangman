@@ -1,0 +1,22 @@
+words = [
+    "python",
+    "computer",
+    "keyboard",
+    "elephant",
+    "football",
+    "mountain",
+    "library",
+    "diamond",
+    "planet",
+    "guitar",
+    "banana",
+    "chocolate",
+    "camera",
+    "ocean",
+    "airport",
+    "science",
+    "holiday",
+    "building",
+    "notebook",
+    "sunshine"
+]
